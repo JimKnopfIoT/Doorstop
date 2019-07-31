@@ -4,7 +4,13 @@
 Requirements:
 * 3D printer 
 * Filament of your choice
+* Neodym-Magnet 1,5x20mm
 
 ## View
-![Example](top1.jpg)
-![Example](iso1.jpg)
+![Example](top_.jpg)
+![Example](iso_.jpg)
+![Example](20190731-DSC03908.jpg)
+![Example](20190731-DSC03910.jpg)
+![Example](20190731-DSC03913.jpg)
+![Example](20190731-DSC03918.jpg)
+![Example](20190731-DSC03925.jpg)
