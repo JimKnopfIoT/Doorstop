@@ -6,5 +6,5 @@ Requirements:
 * Filament of your choice
 
 ## View
-![Example Case](top.jpg)
-![Example Case](iso.jpg)
+![Example](top1.jpg)
+![Example](iso1.jpg)
